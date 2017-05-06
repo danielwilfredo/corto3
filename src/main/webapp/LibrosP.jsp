@@ -18,7 +18,6 @@
         <script type="text/javascript" src="webjars/jquery/2.1.4/jquery.min.js"></script>
         <script type="text/javascript" src="webjars/materialize/0.97.3/dist/js/materialize.min.js"></script>
         <title>JSP Page</title>
-        <title>JSP Page</title>
     </head>
     <% request.setAttribute( "test", new LibroCtrl().consTodo()); %>
       <div class="row">
